@@ -1,0 +1,9 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/parqueadero-5faf6.appspot.com/o/banner.jpg?alt=media&token=1c379b0f-3e12-431d-b5bf-ad9651e251bd");
+
+    background-position: top, center;
+
+    background-size: cover;
+
+    padding: 10% 20% 30% 20%;
+}
